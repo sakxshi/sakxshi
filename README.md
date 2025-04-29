@@ -7,7 +7,7 @@
   In my free time, I like to read tech blogs 📝 and explore new mobile app ideas 🚀.
 </p>
 
-<h4>📄 Know about my experiences <a href="https://docs.google.com/document/d/1_7pkHzatJCtUcFymJlwPZqU44aVb75NF/edit?usp=sharing&ouid=112733160792561034928&rtpof=true&sd=true" target="_blank">here</a></h4>
+<h4>📄 Know about my experiences <a href="https://drive.google.com/file/d/14QZ_ehoxr_n0i8Nv2Oc1L-xTHiZZk3MB/view?usp=sharing" target="_blank">here</a></h4>
 
 <h3>My Projects 🛠️:</h3>
 
