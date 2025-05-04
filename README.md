@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Sakshi</h1>
-<h3>I’m a pre-final year student at BITS Pilani 🎓, with a strong foundation in Android Development 📱.</h3>
+<h3>I’m a pre-final year student at BITS Pilani, with a strong foundation in Android Development.</h3>
 
 <h2>About Me</h2>
 <p>
