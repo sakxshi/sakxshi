@@ -1,24 +1,13 @@
 <h1>Hi 👋, I'm Sakshi</h1>
-<h3>I’m a pre-final year student at BITS Pilani, with a strong foundation in Android Development.</h3>
+<h3>I’m a final year student at BITS Pilani, a dev explorer who loves building things that actually work.</h3>
 
 <h2>About Me</h2>
 <p>
-  I'm passionate about Android Development 📲 and exploring new technologies 🔍. I enjoy problem-solving 🧠 and building impactful solutions 💡. 
-  In my free time, I like to read tech blogs 📝 and explore new mobile app ideas 🚀.
+ I’m a developer who’s all about building things that actually work and diving into how they run under the hood.
+ Whether I'm tackling low-level multi-threading, building out secure backends, or developing mobile apps, I just love the challenge of turning a messy problem into clean code.
 </p>
 
-<h4>📄 Know about my experiences <a href="https://drive.google.com/file/d/14QZ_ehoxr_n0i8Nv2Oc1L-xTHiZZk3MB/view?usp=sharing" target="_blank">here</a></h4>
-
-<h3>My Projects 🛠️:</h3>
-
-- **[Timetable Builder](https://github.com/sakxshi/Timetable-Builder)** 🗓️: A dynamic timetable generator built using Java Swing, incorporating BITS timetable policies for efficient scheduling.
-
-- **[Battery Health](https://github.com/sakxshi/Battery-Health)** 🔋: An app that alerts users when their headset's battery is low, enhancing device awareness and connectivity.
-
-- **[Smart Medicine Box](https://github.com/sakxshi/Smart-Medicine-Box)** 💊: A medicine reminder app with real-time data storage using Firebase, designed to help users manage their medication schedules.
-
-- **[MyJournal](https://github.com/sakxshi/My-Journal)** 📖🧘‍♀️: A self-care application featuring gratitude journaling, mindful questions, and note-writing for daily reflection and well-being.
-
+<h4>📄 Know about my experiences <a href="https://drive.google.com/file/d/16QLHcMkbJWqrf4zzZfIePsHgFLxmhgv2/view?usp=sharing">here</a></h4>
 
 
 <h2>Languages and Tools:</h2>
