@@ -72,7 +72,13 @@
 <h2>GitHub Stats:</h2>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sakxshi&show_icons=true&locale=en" alt="sakxshi" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sakxshi&show_icons=true&theme=radical&hide_border=true" alt="Sakshi's GitHub Stats" height="180" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakxshi&layout=compact&theme=radical&hide_border=true" alt="Sakshi's Top Languages" height="180" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakxshi&theme=radical&hide_border=true" alt="Sakshi's Streak" />
 </p>
 
 <h2>Connect with me:</h2>
