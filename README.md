@@ -3,7 +3,7 @@
 
 <h2>About Me</h2>
 <p>
- I’m a developer who’s all about building things that actually work and diving into how they run under the hood.
+ I’m a developer who’s all about building things and diving into how they run under the hood.
  Whether I'm tackling low-level multi-threading, building out secure backends, or developing mobile apps, I just love the challenge of turning a messy problem into clean code.
 </p>
 
