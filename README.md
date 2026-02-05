@@ -4,7 +4,9 @@
 <h2>About Me</h2>
 <p>
  I’m a developer who’s all about building things and diving into how they run under the hood.
- Whether I'm tackling low-level multi-threading, building out secure backends, or developing mobile apps, I just love the challenge of turning a messy problem into clean code.
+ Whether I’m thinking through system constraints, APIs or application lifecycles, I enjoy the process of turning messy problems into clean, well-structured code.
+
+When I’m not at my keyboard, I’m usually mentoring others through GDSC and ACM-W, sharing what I’ve learned, something that’s been one of the most rewarding parts of my journey so far.
 </p>
 
 <h4>📄 Know about my experiences <a href="https://drive.google.com/file/d/16QLHcMkbJWqrf4zzZfIePsHgFLxmhgv2/view?usp=sharing">here</a></h4>
