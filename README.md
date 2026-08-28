@@ -1,13 +1,17 @@
 <h1>Hi 👋, I'm Sakshi</h1>
-<h3>I’m a final year student at BITS Pilani, a dev explorer who loves building things that actually work.</h3>
+<h3>I’m a Software Developer and a dev explorer who loves building things that actually work.</h3>
 
 <h2>About Me</h2>
 <p>
  I’m a developer who’s all about building things and diving into how they run under the hood.
  Whether I’m thinking through system constraints, APIs or application lifecycles, I enjoy the process of turning messy problems into clean, well-structured code.
 
-When I’m not at my keyboard, I’m usually mentoring others through GDSC and ACM-W, sharing what I’ve learned, something that’s been one of the most rewarding parts of my journey so far.
+Over the past few years, I’ve worked across different parts of software development, from building real-time monitoring tools to working on product features across frontend and backend systems.
+
+When I’m not at my keyboard, I enjoy mentoring and sharing what I’ve learned, something that’s been one of the most rewarding parts of my journey so far.
+
 </p>
+
 
 <h4>📄 Know about my experiences <a href="https://drive.google.com/file/d/16QLHcMkbJWqrf4zzZfIePsHgFLxmhgv2/view?usp=sharing">here</a></h4>
 
